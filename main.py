@@ -1,3 +1,7 @@
+# ============================================
+# Stratos-FEAR Rides - Space Tourism Agency
+# Day 3 Python Project - Classes & OOP
+# ============================================
 # main.py
 # Entry point and main menu loop
 
