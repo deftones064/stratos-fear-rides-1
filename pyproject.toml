@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "stratosfear-rides"
 version = "1.0.0"
 description = "Stratos-FEAR Rides - Space Tourism Simulation"
-authors = [{name = "James Little"}]
+authors = [{name = "RapidAscent OCT25 Cohort - Team 6"}]
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
